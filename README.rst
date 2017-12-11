@@ -22,11 +22,11 @@ Installing
 To install these modules, you need to copy them into the top level directory
 of ns-3, and then reconfigure your setup by::
 
-  ``./waf configure``
+  ./waf configure
 
 followed by::
 
-  ``./waf``
+  ./waf
 
 To use it, refer to the Helper Section.
 
