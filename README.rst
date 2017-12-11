@@ -30,6 +30,7 @@ followed by::
 
 To use it, refer to the Helper Section.
 
+Note: This was only tested on ns-3.27, and is not guaranteed to work on any other versions.
 
 Routing Overview
 *********************************
